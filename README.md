@@ -22,7 +22,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![Airflow](https://commons.wikimedia.org/wiki/File:AirflowLogo.png)
+![Airflow](https://img.shields.io/badge/-Airflow-000?&logo=ApacheAirflow)
 
 ### Full Stack Projects
 
