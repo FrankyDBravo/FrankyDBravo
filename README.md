@@ -24,6 +24,9 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Airflow](https://img.shields.io/badge/-Airflow-000?&logo=ApacheAirflow)
 
+### Data Analysis Projects
+- 
+
 ### Full Stack Projects
 
 - https://www.gprinciples.com/apotheca/ 
