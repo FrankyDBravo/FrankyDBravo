@@ -3,7 +3,7 @@
 If you want to contact me:
 
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:supertom02@hotmail.com)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg)(open:https://twitter.com/terabyte_17)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg)(https://twitter.com/terabyte_17)
 
 ### About Me
 
