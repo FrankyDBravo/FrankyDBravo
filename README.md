@@ -31,7 +31,7 @@ If you want to contact me:
 
 ### Optimisation
 
-- Impermanent Loss optimisation: https://app.hubspot.com/documents/7219152/view/252435496?accessId=98628a
+- [Impermanent Loss optimisation](https://app.hubspot.com/documents/7219152/view/252435496?accessId=98628a)
 
 ### Data Analysis
 
@@ -39,11 +39,11 @@ If you want to contact me:
 
 ### Full Stack Projects
 
-- React Native: https://www.gprinciples.com/apotheca/ 
+- [React Native](https://www.gprinciples.com/apotheca/) 
 - ReactJS : *In development*
 
 ### Research
 
-- Stochastic processes and Networks (C++): https://github.com/FrankyDBravo/OptimizationLongRangeConnection/blob/master/MasterThesis.pdf 
-- Longevity papers review: https://www.gprinciples.com/ 
+- [Stochastic processes and Networks (C++)](https://github.com/FrankyDBravo/OptimizationLongRangeConnection/blob/master/MasterThesis.pdf) 
+- [Longevity papers review](https://www.gprinciples.com/) 
 
