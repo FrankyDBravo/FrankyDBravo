@@ -33,6 +33,9 @@ If you want to contact me:
 
 - Impermanent Loss optimisation: https://app.hubspot.com/documents/7219152/view/252435496?accessId=98628a
 
+### Data Analysis
+
+-  [Crypto Asset Analysis](https://swissborg.com/blog/forecast-bitcoin-price-hourly-asset-analysis)
 
 ### Full Stack Projects
 
