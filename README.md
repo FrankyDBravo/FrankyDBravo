@@ -29,9 +29,18 @@ If you want to contact me:
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Airflow](https://img.shields.io/badge/-Airflow-000?&logo=ApacheAirflow)
 
-### Data Analysis Projects
-- 
+### Optimisation
+
+- Impermanent Loss optimisation: https://app.hubspot.com/documents/7219152/view/252435496?accessId=98628a
+
 
 ### Full Stack Projects
 
-- https://www.gprinciples.com/apotheca/ 
+- React Native: https://www.gprinciples.com/apotheca/ 
+- ReactJS : *In development*
+
+### Research
+
+- Stochastic processes and Networks (C++): https://github.com/FrankyDBravo/OptimizationLongRangeConnection/blob/master/MasterThesis.pdf 
+- Longevity papers review: https://www.gprinciples.com/ 
+
