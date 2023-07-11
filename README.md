@@ -38,6 +38,10 @@ If you want to contact me:
 -  [Crypto Asset Analysis](https://swissborg.com/blog/forecast-bitcoin-price-hourly-asset-analysis)
 -  Predicting Allergen Load in Patients Using Minimal Antigen Measurements *CHUV Confidential*
 
+### BioStat
+
+- [Gene Expression analysis in cancer cell lines](https://github.com/FrankyDBravo/omicAnalysis)
+
 ### Full Stack Projects
 
 - [React Native](https://www.gprinciples.com/apotheca/) 
