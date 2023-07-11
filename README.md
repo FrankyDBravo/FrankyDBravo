@@ -36,6 +36,7 @@ If you want to contact me:
 ### Data Analysis
 
 -  [Crypto Asset Analysis](https://swissborg.com/blog/forecast-bitcoin-price-hourly-asset-analysis)
+-  Predicting Allergen Load in Patients Using Minimal Antigen Measurements *CHUV Confidential*
 
 ### Full Stack Projects
 
