@@ -44,7 +44,7 @@ If you want to contact me:
 
 ### Full Stack Projects
 
-- [React Native](https://www.gprinciples.com/apotheca/) 
+- [React Native](https://www.gprinciples.com/apotheca/) : Medicinal Herbs and their benefits in a simple app. 
 - ReactJS : *In development*
 
 ### Research
